@@ -9,10 +9,10 @@
 ---
 
 ### 📂 My Tasks
-* [cite_start]**Task 1:** Data Cleaning & Wrangling [cite: 147] - [Link ikkada ivvu]
-* [cite_start]**Task 2:** EDA & SQL Analysis [cite: 147] - [Link ikkada ivvu]
-* [cite_start]**Task 3:** Interactive Dashboards [cite: 147] - [Link ikkada ivvu]
-* [cite_start]**Task 4:** Statistical Validation [cite: 147] - [Link ikkada ivvu]
+* [cite_start]**Task 1:** Data Cleaning & Wrangling [cite: 147] - https://github.com/AvaniMudiraj22/Data-Immersion-and-Wrangling
+* [cite_start]**Task 2:** EDA & SQL Analysis [cite: 147] - https://github.com/AvaniMudiraj22/Exploratory-Data-Analysis-EDA-Business-Intelligence
+* [cite_start]**Task 3:** Interactive Dashboards [cite: 147] - https://github.com/AvaniMudiraj22/Deep-Dive-Analysis-Interactive-Dashboarding
+* [cite_start]**Task 4:** Statistical Validation [cite: 147] - https://github.com/AvaniMudiraj22/Data-Storytelling-Statistical-Validation
 
 ---
 
