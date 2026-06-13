@@ -58,10 +58,6 @@ https://github.com/AvaniMudiraj22/Data-Storytelling-Statistical-Validation
 
 ---
 
-### Task 5: Stock Market Price Prediction
-Repository:
-https://github.com/AvaniMudiraj22/stock_price_prediction
-
 **Skills Learned:**
 - Machine Learning
 - Time Series Analysis
