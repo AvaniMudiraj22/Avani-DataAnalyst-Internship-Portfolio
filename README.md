@@ -92,9 +92,3 @@ https://github.com/AvaniMudiraj22/Data-Storytelling-Statistical-Validation
 - Version Control using GitHub
 
 ---
-
-## Author
-
-**Avani Mudiraj**
-
-Data Analyst Intern | Python Enthusiast | Aspiring Data Scientist
