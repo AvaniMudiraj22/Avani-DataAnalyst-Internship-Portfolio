@@ -1,26 +1,104 @@
-# Avani-DataAnalyst-Internship-Portfolio
-"Master Portfolio consolidating all 5 tasks and final deliverables for the Data Analyst Internship at ApexPlanet Software Pvt. Ltd."
-# 🎓 Data Analyst Internship Portfolio - Avani
-## ApexPlanet Software Pvt. [cite_start]Ltd. [cite: 140]
+# Data Analyst Internship Portfolio
 
-### 📌 Overview
-[cite_start]This repository contains a summary of all technical tasks and analysis performed during my 60-day internship journey. [cite: 142, 146]
+## Overview
 
----
+This repository serves as my master portfolio for the Data Analyst Internship completed at ApexPlanet Software Pvt. Ltd.
 
-### 📂 My Tasks
-* [cite_start]**Task 1:** Data Cleaning & Wrangling [cite: 147] - https://github.com/AvaniMudiraj22/Data-Immersion-and-Wrangling
-* [cite_start]**Task 2:** EDA & SQL Analysis [cite: 147] - https://github.com/AvaniMudiraj22/Exploratory-Data-Analysis-EDA-Business-Intelligence
-* [cite_start]**Task 3:** Interactive Dashboards [cite: 147] - https://github.com/AvaniMudiraj22/Deep-Dive-Analysis-Interactive-Dashboarding
-* [cite_start]**Task 4:** Statistical Validation [cite: 147] - https://github.com/AvaniMudiraj22/Data-Storytelling-Statistical-Validation
+Throughout this internship, I worked on data cleaning, exploratory data analysis, dashboard development, statistical validation, and machine learning projects using Python and data analytics tools.
 
 ---
 
-### 📄 Final Deliverables
-* [cite_start][Final Presentation PDF](./Final_Presentation.pdf) 
-* [cite_start][LinkedIn Portfolio Walkthrough](Nee Video Link) [cite: 153, 155]
+## My Projects
+
+### Task 1: Data Immersion & Wrangling
+Repository:
+https://github.com/AvaniMudiraj22/Data-Immersion-and-Wrangling
+
+**Skills Learned:**
+- Data Cleaning
+- Missing Value Handling
+- Data Transformation
+- Data Preprocessing
 
 ---
 
-### 🛠️ Skills Built
-[cite_start]Python, SQL, Data Visualization, and Statistical Testing. [cite: 149]
+### Task 2: Exploratory Data Analysis (EDA)
+Repository:
+https://github.com/AvaniMudiraj22/Exploratory-Data-Analysis-EDA-Business-Intelligence
+
+**Skills Learned:**
+- Data Visualization
+- Trend Analysis
+- Business Insights
+- Exploratory Data Analysis
+
+---
+
+### Task 3: Dashboard Analytics
+Repository:
+https://github.com/AvaniMudiraj22/Deep-Dive-Analysis-Interactive-Dashboarding
+
+**Skills Learned:**
+- Interactive Dashboards
+- KPI Analysis
+- Business Intelligence
+- Data Storytelling
+
+---
+
+### Task 4: Statistical Validation
+Repository:
+https://github.com/AvaniMudiraj22/Data-Storytelling-Statistical-Validation
+
+**Skills Learned:**
+- Statistical Analysis
+- Hypothesis Testing
+- Data Validation
+- Analytical Reporting
+
+---
+
+### Task 5: Stock Market Price Prediction
+Repository:
+https://github.com/AvaniMudiraj22/stock_price_prediction
+
+**Skills Learned:**
+- Machine Learning
+- Time Series Analysis
+- Predictive Modeling
+- Model Evaluation
+
+---
+
+## Technical Skills
+
+- Python
+- Pandas
+- NumPy
+- Matplotlib
+- Scikit-Learn
+- Data Visualization
+- Dashboard Development
+- Statistical Analysis
+- Machine Learning
+- Git & GitHub
+
+---
+
+## Key Learnings
+
+- Data Cleaning and Preparation
+- Exploratory Data Analysis
+- Dashboard Design
+- Statistical Validation
+- Predictive Analytics
+- Professional Documentation
+- Version Control using GitHub
+
+---
+
+## Author
+
+**Avani Mudiraj**
+
+Data Analyst Intern | Python Enthusiast | Aspiring Data Scientist
